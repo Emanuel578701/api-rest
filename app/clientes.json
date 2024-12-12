@@ -1,0 +1,42 @@
+[
+    {
+        "cliente_id": "354189576",
+        "nome": "Wagner Moura",
+        "endereco": "Rua Marechal Deodoro, 311",
+        "cep": "97700-000",
+        "data_de_nascimento": "1988-05-03",
+        "telefone": "(55) 99090-9090"
+    },
+    {
+        "cliente_id": "278456123",
+        "nome": "Maria Fernandes",
+        "endereco": "Avenida Brasil, 456",
+        "cep": "11045-230",
+        "data_de_nascimento": "1992-07-15",
+        "telefone": "(21) 98877-6655"
+    },
+    {
+        "cliente_id": "982374561",
+        "nome": "Carlos Souza",
+        "endereco": "Rua dos Ipês, 789",
+        "cep": "12345-678",
+        "data_de_nascimento": "1980-02-20",
+        "telefone": "(31) 91234-5678"
+    },
+    {
+        "cliente_id": "673812459",
+        "nome": "Ana Paula Oliveira",
+        "endereco": "Praça da Liberdade, 101",
+        "cep": "45678-901",
+        "data_de_nascimento": "1995-11-05",
+        "telefone": "(41) 92345-6789"
+    },
+    {
+        "cliente_id": "456789123",
+        "nome": "Ricardo Pereira",
+        "endereco": "Rua das Acácias, 202",
+        "cep": "56789-012",
+        "data_de_nascimento": "1975-09-17",
+        "telefone": "(51) 93456-7890"
+    }
+]
